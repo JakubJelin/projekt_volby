@@ -1,4 +1,4 @@
-# projekt_volby2 2017 Jakub Jelínek
+# projekt_volby2 - 2017 - Jakub Jelínek
 
 ## O čem projekt je? (o výsledku voleb z roku 2017 - jejichž výsledek se mi nelíbí)
 Tento skript umožňuje vypsat výsledky parlamentních voleb z roku 2017 pro jeden konkrétní okres z [tohodle webu](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ) a uložit je do souboru CSV.
